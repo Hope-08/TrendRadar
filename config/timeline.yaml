@@ -180,7 +180,7 @@ presets:
     periods:
       evening_summary:
         name: "晚间汇总"
-        start: "20:00"
+        start: "18:00"
         end: "22:00"
         # frequency_file: "xxx.txt"               # 关键词文件（可选，位于 config/custom/keyword/）
         # interests_file: "xxx.txt"                # AI 兴趣文件（可选，位于 config/custom/ai/）
